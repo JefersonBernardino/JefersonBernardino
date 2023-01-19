@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, Eu sou o Jeferson 👋
+🌱 Atualmente estou aprendendo a densenvolver aplicações
+
+
+
+
 
 <!--
 **JefersonBernardino/JefersonBernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
